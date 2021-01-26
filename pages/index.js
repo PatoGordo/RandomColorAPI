@@ -7,9 +7,9 @@ export default function Main(){
       <ul>
         <li>All kinds: <a href="https://random-color-api.vercel.app/api/v1/all" >Click Here!</a></li>
         <li>Hex: <a href="https://random-color-api.vercel.app/api/v1/hex" >Click Here!</a></li>
+        <li>Hexa: <a href="https://random-color-api.vercel.app/api/v1/hexa" >Click Here!</a></li>
         <li>RGB: <a href="https://random-color-api.vercel.app/api/v1/rgb" >Click Here!</a></li>
         <li>RGBA: <a href="https://random-color-api.vercel.app/api/v1/rgba" >Click Here!</a></li>
-        <li>Hexa: <a href="https://random-color-api.vercel.app/api/v1/hexa" >Click Here!</a></li>
       </ul>
     </div>
   )
