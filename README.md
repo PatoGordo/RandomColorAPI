@@ -1,19 +1,46 @@
-## Next.js Repl.it Template
+<h1 align="center">Welcome to ColorGeneratorAPI 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.5-blue.svg?cacheSeconds=2592000" />
+  <a href="https://colorgenerator.ga/docs" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/patogordoo" target="_blank">
+    <img alt="Twitter: patogordoo" src="https://img.shields.io/twitter/follow/patogordoo.svg?style=social" />
+  </a>
+</p>
 
-[Next.js](https://nextjs.org/) is an easy-to-use React framework that ships with server-side rendering, hot module reloading, and many other features out-of-the-box. 
+> A simple API that returns random colors.
 
-By default, Repl.it runs the `dev` script, but you can configure it by changing the `run` field in `.replit`.
+### 🏠 [Homepage](https://colorgenerator.ga/)
 
-To add a new page simply add a .js, .jsx, .ts, or .tsx file in the `pages` directory. Pages are associated with a route based on their file name. For example `pages/about.js` is mapped to `/about`. You can even add dynamic route parameters with the filename.
+### ✨ [Demo](https://colorgenerator.ga/api/v1)
 
-We've already created `/pages/index.js` for you to get you started. Feel free to change its contents and see it live-update!
+## Install
 
-```javascript
-function HomePage() {
-  return <div>Welcome to Next.js!</div>
-}
-
-export default HomePage
+```sh
+npm install
 ```
 
-Refer to the [Next.js docs](https://nextjs.org/docs/getting-started) to learn more.
+## Usage
+
+```sh
+npm run dev
+```
+
+## Author
+
+👤 **PatoGordo**
+
+* Website: patogordo.ga
+* Twitter: [@patogordoo](https://twitter.com/patogordoo)
+* Github: [@PatoGordo](https://github.com/PatoGordo)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
