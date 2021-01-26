@@ -18,12 +18,6 @@
 
 ### ✨ [Demo](https://colorgenerator.ga/api/v1)
 
-## Install
-
-```sh
-npm install
-```
-
 ## Usage
 
 ```sh
@@ -34,7 +28,7 @@ npm run dev
 
 👤 **PatoGordo**
 
-* Website: patogordo.ga
+* Website: [patogordo.ga](https://patogordo.ga/)
 * Twitter: [@patogordoo](https://twitter.com/patogordoo)
 * Github: [@PatoGordo](https://github.com/PatoGordo)
 
