@@ -3498,13 +3498,6 @@ next@^9.2.2:
     webpack "4.44.1"
     webpack-sources "1.4.3"
 
-nextjs-cors@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/nextjs-cors/-/nextjs-cors-1.0.1.tgz#1d7b780dbf33f503c4ef4de542b3c63cbdadb059"
-  integrity sha512-TSG1Q7FF8/v7xPitm+khae1Ymv7EXSt5/xsoeepOIr48uXIGK9h9O0p8VjAk/veS3QfSivUpJe3Um1EfSjvnZw==
-  dependencies:
-    cors "^2.8.5"
-
 node-fetch@2.6.0:
   version "2.6.0"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.0.tgz#e633456386d4aa55863f676a7ab0daa8fdecb0fd"
