@@ -18,6 +18,8 @@ export default function Main(){
         <li>Hex: <a href="https://colorgenerator.ga/api/v1/lineargradient-hex" >https://colorgenerator.ga/api/v1/lineargradient-hex</a></li>
         <li>RGB: <a href="https://colorgenerator.ga/api/v1/lineargradient-rgb" >https://colorgenerator.ga/api/v1/lineargradient-rgb</a></li>
       </ul>
+      <h2>Project repo</h2>
+      <a href="https://github.com/patogordo/RandomColorAPI"><img src="https://gh-card.dev/repos/patogordo/RandomColorAPI.svg" /></a>
     </div>
   )
 }

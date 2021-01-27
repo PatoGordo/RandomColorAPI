@@ -1,4 +1,9 @@
+import cors from '../../../lib/cors'
+
 async function LinearGradientHEX(req, res){
+
+  await cors(req, res)
+
   var base = Math.floor( 0x100000000 * Math.random())
   var base2 = Math.floor( 0x100000000 * Math.random())
   
